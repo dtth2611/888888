@@ -50,7 +50,7 @@
 内容原创性（避免重复采集站模板），规避Google重复内容惩罚
 
 强行为SEO设计：收藏、历史、相关推荐模块助力停留时间
-<span style="display:none;">[Canonical link] ( ）</span>
+<span style="display:none;">[Canonical link] ( https://github.com/dtth2611/888888 ）</span>
 
 
 
